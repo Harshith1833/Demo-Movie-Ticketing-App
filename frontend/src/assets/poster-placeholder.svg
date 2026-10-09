@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 520" role="img" aria-label="Poster placeholder">
+  <rect width="360" height="520" rx="24" fill="#FFFFFF"/>
+  <rect x="12" y="12" width="336" height="496" rx="20" fill="#FFF5F7" stroke="#D20A2E" stroke-width="4"/>
+  <text x="180" y="230" text-anchor="middle" fill="#D20A2E" font-size="40" font-family="Segoe UI, Arial, sans-serif" font-weight="700">TicketNow</text>
+  <text x="180" y="275" text-anchor="middle" fill="#D20A2E" font-size="22" font-family="Segoe UI, Arial, sans-serif">Movie Poster</text>
+</svg>

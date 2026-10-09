@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="TicketNow logo">
+  <defs>
+    <linearGradient id="tnGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D20A2E"/>
+      <stop offset="100%" stop-color="#B50727"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="40" width="1160" height="340" rx="54" fill="#FFFFFF" stroke="#D20A2E" stroke-width="16"/>
+  <rect x="40" y="60" width="300" height="300" rx="34" fill="url(#tnGrad)"/>
+  <rect x="120" y="120" width="150" height="170" rx="16" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+  <circle cx="160" cy="240" r="24" fill="#FFFFFF"/>
+  <circle cx="220" cy="240" r="24" fill="#FFFFFF"/>
+  <path d="M160 210 C180 140, 210 140, 220 184" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  <path d="M196 145 C210 137, 230 142, 240 156" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <text x="420" y="240" fill="#D20A2E" font-size="112" font-family="Segoe UI, Arial, sans-serif" font-weight="700">TicketNow</text>
+  <path d="M420 150 H1010" stroke="#D20A2E" stroke-width="4"/>
+  <path d="M420 290 H1010" stroke="#D20A2E" stroke-width="4"/>
+  <circle cx="710" cy="150" r="8" fill="#D20A2E"/>
+  <circle cx="710" cy="290" r="8" fill="#D20A2E"/>
+</svg>
