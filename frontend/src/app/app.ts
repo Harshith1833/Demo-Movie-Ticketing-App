@@ -1,3 +1,4 @@
+// Root shell that hosts whichever page the router selects.
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 

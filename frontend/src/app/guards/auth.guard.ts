@@ -1,3 +1,4 @@
+// Protect routes using the locally stored session and role information.
 import { CanActivateFn, Router } from '@angular/router';
 import { inject } from '@angular/core';
 import { AuthService } from '../services/auth.service';

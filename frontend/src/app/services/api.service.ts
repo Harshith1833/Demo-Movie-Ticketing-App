@@ -1,3 +1,4 @@
+// Centralize HTTP calls so pages do not duplicate endpoint and header details.
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';

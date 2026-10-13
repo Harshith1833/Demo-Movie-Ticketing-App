@@ -1,3 +1,4 @@
+// Present the sign-in form and establish a session after successful login.
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';

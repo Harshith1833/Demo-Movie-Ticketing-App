@@ -1,3 +1,5 @@
+"""Provide the Flask API, database models, and authorization for TicketNow."""
+
 import os
 from sqlalchemy import inspect
 

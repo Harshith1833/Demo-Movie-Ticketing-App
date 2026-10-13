@@ -1,3 +1,4 @@
+// Verify that the root component can be created with its configured imports.
 import { TestBed } from '@angular/core/testing';
 import { App } from './app';
 

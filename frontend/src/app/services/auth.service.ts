@@ -1,3 +1,4 @@
+// Keep the client-side session state used by route guards and API callers.
 import { Injectable } from '@angular/core';
 
 @Injectable({

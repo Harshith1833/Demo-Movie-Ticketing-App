@@ -1,3 +1,4 @@
+// Collect new user details and hand registration requests to the API service.
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';

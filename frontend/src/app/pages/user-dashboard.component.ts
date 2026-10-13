@@ -1,3 +1,4 @@
+// Provide the authenticated user's show, booking, and payment-slip workflows.
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';

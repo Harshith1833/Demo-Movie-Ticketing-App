@@ -1,3 +1,4 @@
+// Keep public, authenticated, and administrator routes in one place.
 import { Routes } from '@angular/router';
 import { LoginPageComponent } from './pages/login-page.component';
 import { RegisterPageComponent } from './pages/register-page.component';
